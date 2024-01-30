@@ -1,0 +1,85 @@
+.main{
+    padding: 0px;
+    margin: 0px;
+}
+.pic1{
+    height: 250px;
+    width: 350px;
+    background-image: url("./Aset/Img/HotelSwimnigPic.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic2{
+    height:  250px;
+    width: 350px;
+    background-image: url("./Aset/Img/HotelNightPic.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic3{
+    height:  250px;
+    width: 350px;
+    background-image: url("./Aset/Img/HotelPic.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic4{
+    height:  250px;
+    width: 350px;
+    background-image: url(./Aset/Img/Hotelpic1.jpg);
+    border: 1px solid black;
+}
+.pic5{
+    height:  250px;
+    width: 350px;
+    background-image: url("./Aset/Img/BedRoom4.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic6{
+    height:  250px;
+    width: 350px;
+    background-image: url("./Aset/Img/BedRoom3.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic7{
+    height:  250px;
+    width: 350px;
+    background-image: url("./Aset/Img/BedRoom2.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic8{
+    height: 250px;
+    width: 350px;
+    background-image: url(./Aset/Img/BedRoom1.jpg);
+    border: 1px solid black;
+}
+.pic9{
+    height: 250px;
+    width: 350px;
+    background-image: url("./Aset/Img/Kichan4.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic10{
+    height: 250px;
+    width: 350px;
+    background-image: url("./Aset/Img/Kixhan3jpg.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic11{
+    height: 250px;
+    width: 350px;
+    background-image: url("./Aset/Img/Kichan2.jpg");
+    float: right;
+    border: 1px solid black;
+}
+.pic12{
+    height: 250px;
+    width: 350px;
+    background-image: url(./Aset/Img/Kichan1.jpg);
+    border: 1px solid black;
+}
